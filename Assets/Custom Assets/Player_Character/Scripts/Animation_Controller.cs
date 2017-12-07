@@ -15,7 +15,7 @@ public class Animation_Controller : MonoBehaviour {
 	void Update () {
 		if (Input.GetAxis ("Vertical")!=0) {
 			anim.SetBool ("Walk",true);
-		}else if(Input.GetAxis ("Vertical")!=0) {
+		} else {
 			anim.SetBool ("Walk",false);
 		}
 	}
