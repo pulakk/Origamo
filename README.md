@@ -1,2 +1,2 @@
 # Origamo
-Blender Character Creation/Texturing/Animation/Rigging
+> Blender Character Creation / Texturing / Animation / Rigging
