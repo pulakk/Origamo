@@ -10,7 +10,7 @@ Final Rendered Model During Walk Cycle
 
 <img src="https://raw.githubusercontent.com/mizigro/Origamo/master/Walk%20Cycle%20Animation/unity_images.gif" height="250px">
 
-Idle state and walk cycle animation in unity using animator controlled
+Idle state and walk cycle animation in unity using animator controller
 
 ## Usage
 Download the final blender model from the modelling stages folder along with the textures from the Modelling_Textures_Anim folder. The rest are Unity Project Folders and Files.
